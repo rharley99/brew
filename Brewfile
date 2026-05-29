@@ -69,6 +69,7 @@ else
   cask 'alfred'
   cask 'google-chrome'
   cask 'dropbox'
+  cask 'ticktick'
   cask 'hiddenbar'
   cask 'rectangle'
   cask 'karabiner-elements'
@@ -84,7 +85,6 @@ else
 
   # mas app
   mas 'Unsplash Wallpapers', id: 1_284_863_847
-  mas 'Microsoft ToDo', id: 1_274_495_053
   mas 'Microsoft OneNote', id: 784_801_555
   mas 'Bear', id: 1_091_189_122
   mas 'Lungo', id: 1_263_070_803
