@@ -1,5 +1,0 @@
-tap 'homebrew/cask'
-
-cask 'feishu'
-cask 'postman'
-cask 'workflowy'
