@@ -1,5 +1,6 @@
 tap 'homebrew/cask'
 
 cask 'feishu'
-cask 'postman'
-cask 'workflowy'
+cask 'finicky'
+# cask 'postman'
+# cask 'workflowy'
