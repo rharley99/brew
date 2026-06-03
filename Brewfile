@@ -63,6 +63,7 @@ else
   cask 'visual-studio-code'
   cask 'ghostty'
   cask 'figma'
+  cask 'opencode'
 
   # [cask] productivity
   cask '1password'
